@@ -1,1 +1,6 @@
+title: Data Visualization Using R
+email: abell@richmond.edu
+description: Repo for WEBSITE of Data Visualization with R, a 3 day work faculty development workshop at the University of Richmond
+baseurl: "/DataVisualizationwithR"
+url: https://lloydabell4.github.io/
 theme: jekyll-theme-minimal
