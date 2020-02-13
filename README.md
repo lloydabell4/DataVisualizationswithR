@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Faculty Hub Institute | *Data Visualization with R*
 
-You can use the [editor on GitHub](https://github.com/lloydabell4/DataVisualizationswithR/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Summary
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Would you like your students to create data visualizations that are both beautiful and effective narrative tools? Would you like to enhance the quality of your data visualizations in your publications and presentations? Do you want to introduce a data visualization assignment to your course but are uncertain how best to craft one? The Faculty Hub has organized an end of the year professional development opportunity that will help you accomplish these goals. 
 
-### Markdown
+The ability to communicate a narrative derived from data is important for the advancement of scholarship and for preparing our students for life after graduation. Two changes in the past decade have reduced the barriers to creating beautiful and effective data visualizations: technological advances in data visualization software and the growing availability of data. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We’ve chosen R to focus our data visualization conversations, but this is not just an R workshop. Our hope is that the knowledge and skillset you learn in this institute will help you use other tools to visualize data like (Tableau and Excel). 
 
-```markdown
-Syntax highlighted code block
+## Learning Objectives
 
-# Header 1
-## Header 2
-### Header 3
+- Enhance faculty data visualization and management knowledge and skillset (R)
+- Develop community among faculty using data visualization in their teaching and scholarship
+- Develop a specific assignment or research-asset around data visualization
+  - *Scholarship example*: A data visualization for a future grant, presentation, publication
+  - *Teaching example*: A data visualization assignment for an upcoming course or lab
 
-- Bulleted
-- List
+## Schedule
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lloydabell4/DataVisualizationswithR/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This institute will involve three components: technical training (1.5 days), individual project work (half day), and a presentation/showcase (half day). The specifics of each day will depend on feedback from you, but below is roughly the framework we’ll be working from.
